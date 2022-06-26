@@ -5,4 +5,4 @@ Projeto elaborado em aula do Bootcamp Santander da Digital Innovetion One DIO.<b
 Juntos elaboramos esta landing Page com intuito de aprender mais sobre CSS flexbox.
 
 <br> segue abaixo o link para visualização do projeto!
-<br>https://will-freire.github.io/Projeto-FlexBox-CSS-Bootcamp/#servicos
+<br>https://will-freire.github.io/Projeto-FlexBox-CSS-Bootcamp
